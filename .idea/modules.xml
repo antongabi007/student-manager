@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/StudentManager.iml" filepath="$PROJECT_DIR$/StudentManager.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/student-manager.iml" filepath="$PROJECT_DIR$/student-manager.iml" />
+>>>>>>> master
     </modules>
   </component>
 </project>
