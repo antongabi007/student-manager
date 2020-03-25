@@ -1,4 +1,4 @@
-package loose.use.fis.lab.student.manager;
+package loose.oose.fis.lab.student.manager;
 
 public class Controller {
 }
